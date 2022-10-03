@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_global"
+        android:icon="@drawable/ic_baseline_coronavirus_global_24"
+        android:title="@string/tile_global"/>
+
+    <item
+        android:id="@+id/navigation_country"
+        android:icon="@drawable/ic_baseline_flag_country_24"
+        android:title="@string/tile_country"/>
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_baseline_info_about_24"
+        android:title="@string/tile_about"/>
+</menu>

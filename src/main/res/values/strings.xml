@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Corona Update</string>
+
+    <string name="tile_global">Global</string>
+    <string name="tile_country">Country</string>
+    <string name="tile_about">About</string>
+    <string name="country_name_title">Country Name</string>
+    <string name="daily_title">Daily New Cases/Deaths</string>
+
+    <!-- Conntry Detail Screen TextView Names-->
+    <string name="active_cases_title">Active Cases</string>
+    <string name="total_cases_title">Total Cases</string>
+    <string name="new_cases_title">New Cases</string>
+    <string name="total_deaths_title">Total Deaths</string>
+    <string name="new_deaths_title">New Deaths</string>
+    <string name="total_recovered_title">Total Recovered</string>
+    <string name="new_recovered_title">New Recovered</string>
+    <string name="total_tests_title">Total Tests</string>
+
+    <string name="about_app_developers">
+        The pages updates when worldometer.com Updates. The data is in synchronization with worldometer.com\n\nClick on the graph button on the screens where it is
+        available to see visualizations of the data. And you can click/hover on the graphs to interact with the graphs.
+    </string>
+    <string name="refresh">Refresh</string>
+    <string name="welcome_to_google_sign_in">Please Sign in with Google Account</string>
+    <string name="covid_precautions">Covid Precautions</string>
+
+</resources>
